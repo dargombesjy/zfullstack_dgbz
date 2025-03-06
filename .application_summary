@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://ff0gkwlwb-kfnchg.launchpad.cfapps.us10.hana.ondemand.com/lcapzfullstack_dgbz.zfullstack_dgbzLaunchpad-1.0.0/",
+  "DeployedUTCTime": "2025-02-19T04:14:47.995Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:zfullstack_dgbz-srv)))))"
+}
